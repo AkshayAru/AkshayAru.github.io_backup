@@ -13,11 +13,8 @@ Date of birth: Write your date of birth here
 
 Write a few sentences describing you the best.
 
-
-
-```markdown
 ### List of hobbies:
-
+```markdown
 * Coding
   * Elm
   * Haskell
